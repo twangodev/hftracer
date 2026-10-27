@@ -13,6 +13,10 @@ dependencies = [
 [project.scripts]
 hftracer = "hftracer.cli:app"
 
+[project.urls]
+Repository = "https://github.com/twangodev/hftracer"
+Issues = "https://github.com/twangodev/hftracer/issues"
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
