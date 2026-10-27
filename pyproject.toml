@@ -1,7 +1,7 @@
 [project]
 name = "hftracer"
 version = "0.1.0"
-description = "Sync coding-agent sessions to a private Hugging Face Storage Bucket."
+description = "Synchronize agent traces to Hugging Face buckets."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.14"
